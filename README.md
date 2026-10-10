@@ -62,6 +62,3 @@ Ambil screenshot dari MLflow UI setelah eksperimen benar-benar selesai:
 4. Hasil ablation.
 5. Model Registry yang menunjukkan alias `champion`.
 6. Output prediksi 16 sampel dan terminal `dvc status`.
-
-## Catatan kejujuran hasil
-Angka metrik tidak ditulis tetap dalam README/laporan sebelum eksperimen dijalankan. Salin nilai yang benar-benar tercatat pada MLflow ke laporan final. Hash dataset yang benar adalah output aktual `data_md5`/file `.dvc`, bukan nilai contoh.
